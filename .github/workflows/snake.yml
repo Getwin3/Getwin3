@@ -6,20 +6,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-
-      - name: Generate snake animation
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: GetwinSamson
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          github_user_name: Getwin3
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push snake animation
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push Snake
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
