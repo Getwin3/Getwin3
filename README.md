@@ -11,7 +11,7 @@ Building scalable data platforms, real-time streaming systems, and enterprise la
 
 ---
 
-# 🚀 About Me
+# About Me
 
 💼 Data Engineer specializing in **Big Data Platforms, Streaming Systems, and Lakehouse Architectures**
 
@@ -61,7 +61,7 @@ Building scalable data platforms, real-time streaming systems, and enterprise la
 <img src="https://skillicons.dev/icons?i=aws"/>
 
 Services:  
-S3 • Glue • Lambda • Step Functions • Redshift • Athena • EC2 • CloudWatch
+S3 • Glue • Lambda • Step Functions • Redshift • Athena • EC2 • CloudWatch • DynamoDB • Sagemaker • SNS
 
 ---
 
@@ -70,7 +70,7 @@ S3 • Glue • Lambda • Step Functions • Redshift • Athena • EC2 • Cl
 <img src="https://skillicons.dev/icons?i=azure"/>
 
 Services:  
-Data Factory • Databricks • Azure ML • Data Lake Storage • Cosmos DB • Purview • Key Vault
+Data Factory • Databricks • Azure ML • Data Lake Storage • Cosmos DB • Purview • Key Vault • Blob Storage
 
 ---
 
