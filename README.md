@@ -151,7 +151,7 @@ Kafka • Debezium • Flink • Spark
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/GetwinSamson/GetwinSamson/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Getwin3/Getwin3/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
